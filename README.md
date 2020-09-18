@@ -15,6 +15,7 @@ To make changes edit sketch.js in p5.js web editor.
 
 ```
 Actions:
+
   Up_Arrow key    [^] move up
   Down_Arrow key  [v] move down
   Left_Arrow key  [<] move left
