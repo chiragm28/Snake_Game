@@ -4,6 +4,8 @@
   * Speed increases with every score increment
   * Game ends if snake bumps in itself or the borders
 
+![Screen Shot 2021-03-04 at 5 51 33 PM](https://user-images.githubusercontent.com/30934758/110041665-74f48f80-7d12-11eb-81ca-1c9d06161872.png)
+
 Hosted using gh-pages.
 
 Have fun!
